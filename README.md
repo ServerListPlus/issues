@@ -6,8 +6,9 @@
   * Share ideas.
   * Engage with other community members.
 
-If you wish to report a bug or issue, please head over to "Issues" [here](https://github.com/ServerListPlus/issues/issues/new).  
-Check out our Roadmap [here](https://github.com/orgs/ServerListPlus/projects/3).
+🐛 If you wish to report a bug or issue, please head over to "Issues" [here](https://github.com/ServerListPlus/issues/issues/new).  
+🗺 Check out our Roadmap [here](https://github.com/orgs/ServerListPlus/projects/3).  
+🚀 Check out the release notes [here](https://github.com/ServerListPlus/issues/releases).
 
 
 # Server Lists:
