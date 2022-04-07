@@ -12,4 +12,4 @@
 
 
 # Server Lists:
-https://playftb.com - Server List focussed on Feed The Beast modpack servers.
+https://moddedminecraft.com - Server List focussed on Feed The Beast modpack servers.
